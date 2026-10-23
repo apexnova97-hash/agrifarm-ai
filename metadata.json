@@ -1,0 +1,6 @@
+{
+  "name": "Amina — Agrifarm Voice Assistant",
+  "description": "Official bilingual AI voice assistant for Agrifarm Agricultural Inputs and Equipment Import PLC (Addis Ababa, Ethiopia). Handles agricultural equipment inquiries, local veterinary manufacturing orders, and Ethiopian specialty coffee export partnerships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
